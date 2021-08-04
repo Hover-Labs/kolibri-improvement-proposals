@@ -1,5 +1,9 @@
 # Kolibri Improvement Proposal #XX
 
+Author: Your Name Here <Your Contact Here> (ex. "keefertaylor <keefer@hover.engineering>" or "fitblip <>"
+Created: DD/MM/YYYY
+State: Initially should be "Draft", available states: Draft, Proposed, Accepted, Rejected
+
 ### Summary
 
 A brief description of what the proposal is about.
