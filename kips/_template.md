@@ -1,6 +1,6 @@
 # Kolibri Improvement Proposal #XX
 
-Author: Your Name Here <Your Contact Here> (ex. "keefertaylor <keefer@hover.engineering>" or "fitblip <>"
+Author: Your Name Here <Your Contact Here> (ex. "keefertaylor <keefer@hover.engineering>" or "fitblip <Discord fitblip#1234>"
 Created: DD/MM/YYYY
 State: Initially should be "Draft", available states: Draft, Proposed, Accepted, Rejected
 
