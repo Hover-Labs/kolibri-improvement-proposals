@@ -11,4 +11,3 @@ A description of the motivations behind the proposal (to better understand what 
 ### Details
 
 A summary of the inner workings of the proposal, along with any relevant code.
-
