@@ -1,5 +1,11 @@
 # Kolibri Improvement Proposals (KIPs)
 
+---
+
+**DEPRECATED**: Please use the [Kolibri Improvement Proposal](https://discuss.kolibri.finance/c/governance/kips/5) section of the forum to submit and discuss KIPs!
+
+---
+
 The Kolibri Improvement Proposals repo is a place to submit, consider, and discuss gov proposals for the Kolibri Protocol. By no means is it the only way to have these discussions, but in general the pull request/software review cycle lends nicely to writing proposals and iterating on them.
 
 This sort of proposal system has been used to great effect by other projects (like [Django](https://github.com/django/deps), [Debian](https://dep-team.pages.debian.net/), [Curve Finance](https://resources.curve.fi/guides/voting/creating-a-dao-proposal#creating-your-proposal), and countless others), and should work well for Kolibri as well. It's very useful to drive consensus off-chain about changes, refining them, and having proposals 
